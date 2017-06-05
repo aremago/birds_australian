@@ -1,8 +1,16 @@
 
 h1{
 	text-align: center;
+	color: #D700F8;
 	text-decoration-style: bold;
+
 }
+div{
+	width: 50%;
+	height: 100px;
+	background-color: #F8F9DF;
+}
+
 .piePagina{
 
 		text-align: right;
