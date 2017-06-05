@@ -10,6 +10,10 @@ div{
 	height: 100px;
 	background-color: #F8F9DF;
 }
+ul li{
+	color: #1403F8;
+	font-size: 20px;
+}
 
 .piePagina{
 
